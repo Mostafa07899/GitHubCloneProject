@@ -1,2 +1,1 @@
-# GitHubCloneProject
-Modifiation in main branch.
+Modification in main branch.
